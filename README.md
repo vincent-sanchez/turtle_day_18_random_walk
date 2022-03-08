@@ -7,4 +7,5 @@ main.py and data.py files were created for Day 18 of the 100 Days of Code: Pytho
 1. Program must randomly walk, change direction an color to recreate the random walk process referenced.
 
 *Note: Data in data.py file was copied from https://stackoverflow.com/questions/4969543/colour-chart-for-tkinter-and-tix*
+
 *Reference: https://en.wikipedia.org/wiki/Random_walk*
